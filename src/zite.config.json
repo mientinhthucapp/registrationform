@@ -1,0 +1,28 @@
+{
+  "integrations": {
+    "retreat-registrations": {
+      "type": "databases",
+      "connectionId": null,
+      "base": "RetreatRegistrations"
+    },
+    "email": {
+      "type": "email",
+      "connectionId": "svc_485311",
+      "provider": "gmail"
+    },
+    "stripe": {
+      "type": "stripe",
+      "connectionId": "svc_486339"
+    },
+    "openai": {
+      "type": "openai",
+      "connectionId": "svc_487056"
+    }
+  },
+  "seoSettings": {
+    "title": "Khóa thiền dã ngoại: Thắp Sáng Ngôi Đền Bên Trong",
+    "faviconUrl": "https://images.fillout.com/orgid-702671/flowpublicid-j7pdezg8fp/widgetid-default/v859cSzhmKFnmg63KLssDt/favicon.png",
+    "description": "Chương trình thiền dã ngoại 3 ngày 2 đêm ở Melbourne, Úc Châu (Camp Rumbug) do Thầy Minh Niệm trực tiếp hướng dẫn",
+    "thumbnailUrl": "https://images.fillout.com/orgid-702671/flowpublicid-j7pdezg8fp/widgetid-default/dMXUPCRyRHKapdeuWYhvp8/poster.jpg"
+  }
+}
